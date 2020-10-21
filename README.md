@@ -14,7 +14,7 @@
   
 # 
 ### What I use
-<p><img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/cpp.png" width="60px"> <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/qt.png" width="80px"> <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/python.webp" width="60px"></p>
+<p><img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/cpp.png" width="60px"> <p> </p> <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/qt.png" width="80px"> <p> </p> <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/python.webp" width="60px"></p>
 
 #
 ### My stats
