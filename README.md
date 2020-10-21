@@ -1,4 +1,4 @@
-### Hi. I'm GamePlayer103. Nice to see you on my profile <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/wave.gif" width="30px">
+### Hi. I'm GamePlayer103. Nice to see you on my profile <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/wave.gif" width="20px">
 
 #
 ### About me
@@ -6,19 +6,19 @@
 
 #
 ### Contact
-<p><img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/discord.png" width="30px"> GAMEPLAYER [Centrum Dsc]#1216</p>
+<p><img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/discord.png" width="20px"> GAMEPLAYER [Centrum Dsc]#1216</p>
 <BR>
-<p><img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/gmail.png" width="30px"> game.player@o2.pl</p>
+<p><img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/gmail.png" width="20px"> game.player@o2.pl</p>
 <BR>  
 <a href="http://gpb.alion.hmcloud.pl" target="_blank">My web page</a>
   
 # 
 ### What I use
-<p> <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/cpp.png" width="30px"> C++</p>
+<p> <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/cpp.png" width="20px"> C++</p>
 <BR>
-<p> <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/qt.png" width="30px"> Qt</p>
+<p> <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/qt.png" width="20px"> Qt</p>
 <BR>
-<p> <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/python.webp" width="30px"> Python</p>
+<p> <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/python.webp" width="20px"> Python</p>
 
 #
 ### My stats
