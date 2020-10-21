@@ -3,7 +3,7 @@
 
 #
 ### About me
-My nickname is GAMEPLAYER and I'm form Poland. I'm a young programmer, c++ fan. I use qt framework for my projects and some python.
+My nickname is GAMEPLAYER and I'm form Poland. I'm a young programmer, c++ fan. I use qt framework for my projects and some python. I made a mars rover called alion, which was exhibited on the https://roverchallenge.eu/. 
 
 #
 ### Contact
