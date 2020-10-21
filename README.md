@@ -1,14 +1,10 @@
 ### Hi. I'm GamePlayer103. Nice to see you on my profile <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/wave.gif" width="30px"> <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/wave.gif" width="30px">
 
-#
-
 ## Contact:
 <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/discord.png" width="30px"> GAMEPLAYER [Centrum Dsc]#1216
 <BR>
 <BR>
 <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/gmail.png" width="30px"> game.player@o2.pl
-
-#
 
 ## What I use
 <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/c++.png" width="30px"> C++
@@ -18,8 +14,6 @@
 <BR>
 <BR>
 <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/python.webp" width="30px"> Python
-
-#
 
 ## My stats:
 <BR>
