@@ -2,7 +2,7 @@
 
 <BR>
 
-### Contact:
+## Contact:
 <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/discord.png" width="30px"> GAMEPLAYER [Centrum Dsc]#1216
 <BR>
 <BR>
