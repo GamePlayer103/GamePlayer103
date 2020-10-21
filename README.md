@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/gmail.png" width="30px"> game.player@o2.pl
 
 ## What I use
-<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/c++.png" width="30px"> C++
+<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/cpp.png" width="30px"> C++
 <BR>
 <BR>
 <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/qt.png" width="30px"> Qt
