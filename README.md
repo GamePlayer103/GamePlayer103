@@ -3,24 +3,24 @@
 
 #
 ### About me
-My nickname is GAMEPLAYER and I'm form Poland. I'm a young programmer, c++ fan. I use qt framework for my projects and some python. I made a mars rover called alion, which was exhibited on the https://roverchallenge.eu/. 
+<p> My nickname is GAMEPLAYER and I'm form Poland. I'm a young programmer, c++ fan. I use qt framework for my projects and some python. I made a mars rover called alion, which was exhibited on the https://roverchallenge.eu/.</p>
 
 #
 ### Contact
-<p><img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/discord.png" width="30px">          GAMEPLAYER [Centrum Dsc]#1216</p>
+<p><img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/discord.png" width="30px"> - GAMEPLAYER [Centrum Dsc]#1216</p>
 <BR>
 <BR>
-<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/gmail.png" width="30px"> <p> game.player@o2.pl</p>
+<p><img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/gmail.png" width="30px"> - game.player@o2.pl</p>
   
 # 
 ### What I use
-<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/cpp.png" width="30px"> <p> C++</p>
+<p> <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/cpp.png" width="30px"> - C++</p>
 <BR>
 <BR>
-<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/qt.png" width="30px"> <p> Qt</p>
+<p> <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/qt.png" width="30px"> - Qt</p>
 <BR>
 <BR>
-<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/python.webp" width="30px"> <p> Python</p>
+<p> <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/python.webp" width="30px"> - Python</p>
 
 #
 ### My stats
