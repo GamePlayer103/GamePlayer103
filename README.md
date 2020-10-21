@@ -10,7 +10,7 @@
 <BR>
 <p><img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/gmail.png" width="30px"> game.player@o2.pl</p>
 <BR>  
-<a href="gpb.alion.hmcloud.pl">My web page</a>
+<a href="http://gpb.alion.hmcloud.pl">My web page</a>
   
 # 
 ### What I use
