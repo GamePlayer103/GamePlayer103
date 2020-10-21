@@ -1,20 +1,27 @@
-### <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/wave.gif" width="30px"> Hi. I'm GamePlayer103. Nice to see you on my profile <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/wave.gif" width="30px">
+<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/wave.gif" width="30px">
+### Hi. I'm GamePlayer103. Nice to see you on my profile
+<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/wave.gif" width="30px">
 
 #
 
 ## Contact:
-<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/wave.gif" width="60px"> GAMEPLAYER [Centrum Dsc]#1216
-<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/wave.gif" width="60px"> game.player@o2.pl
+<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/discord.png" width="30px"> GAMEPLAYER [Centrum Dsc]#1216
+<BR>
+<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/gmail.png" width="30px"> game.player@o2.pl
 
 #
 
 ## What I use
-<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/c++.img" width="60px"> C++
-<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/qt.png" width="60px"> Qt
-<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/python.webpf" width="60px"> Python
+<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/c++.img" width="30px"> C++
+<BR>
+<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/qt.png" width="30px"> Qt
+<BR>
+<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/python.webpf" width="30px"> Python
 
 #
-My stats:
+
+## My stats:
+<BR>
 [![GamePlayer103's github stats](https://github-readme-stats.vercel.app/api?username=GamePlayer103&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&theme=cobalt)
 <BR>
 <BR> 
