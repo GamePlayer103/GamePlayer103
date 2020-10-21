@@ -14,11 +14,9 @@
   
 # 
 ### What I use
-<p> <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/cpp.png" width="25px"> C++</p>
-<BR>
-<p> <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/qt.png" width="25px"> Qt</p>
-<BR>
-<p> <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/python.webp" width="25px"> Python</p>
+<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/cpp.png" width="25px">
+<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/qt.png" width="25px">
+<img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/python.webp" width="25px">
 
 #
 ### My stats
