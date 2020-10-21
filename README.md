@@ -7,7 +7,7 @@ My nickname is GAMEPLAYER and I'm form Poland. I'm a young programmer, c++ fan. 
 
 #
 ### Contact
-<p><img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/discord.png" width="30px">  GAMEPLAYER [Centrum Dsc]#1216</p>
+<p><img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/discord.png" width="30px">          GAMEPLAYER [Centrum Dsc]#1216</p>
 <BR>
 <BR>
 <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/gmail.png" width="30px"> <p> game.player@o2.pl</p>
