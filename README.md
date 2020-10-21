@@ -1,4 +1,4 @@
-### Hi. I'm GamePlayer103. Nice to see you on my profile <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/wave.gif" width="30px">
+### <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/wave.gif" width="60px"> Hi. I'm GamePlayer103. Nice to see you on my profile <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/wave.gif" width="60px">
 #
 Contact:
 
