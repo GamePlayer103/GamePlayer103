@@ -5,7 +5,8 @@
 <BR>
 <BR>
 <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/gmail.png" width="30px"> game.player@o2.pl
-
+  
+# 
 ### What I use
 <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/cpp.png" width="30px"> C++
 <BR>
@@ -15,6 +16,7 @@
 <BR>
 <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/python.webp" width="30px"> Python
 
+#
 ### My stats:
 <BR>
 [![GamePlayer103's github stats](https://github-readme-stats.vercel.app/api?username=GamePlayer103&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&theme=cobalt)
