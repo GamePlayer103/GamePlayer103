@@ -6,7 +6,7 @@
 
 #
 ### Contact
-<p><img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/discord.png" width="25px"> GAMEPLAYER [Centrum Dsc]#1216</p>
+<p><img align="left" src="https://badges.krynn.dev/discord?id=749918932495761499&padding=8"></p>
 <BR>
 <p><img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/gmail.png" width="25px"> game.player@o2.pl</p>
 <BR>  
