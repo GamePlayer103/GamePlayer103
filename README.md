@@ -8,7 +8,7 @@
 ### Contact
 <p><img align="left" src="https://badges.krynn.dev/discord?id=749918932495761499&padding=8"></p>
 <BR>
-<p><img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/gmail.png" width="25px"> game.player@o2.pl</p>
+<p><img align="left" src="https://badges.krynn.dev/email?address=game.player@o2.pl&padding=8"></p>
 <BR>  
 <a href="http://gpb.alion.hmcloud.pl" target="_blank">My web page</a>
   
