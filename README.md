@@ -2,12 +2,11 @@
 
 #
 ### About me
-<p> My nickname is GAMEPLAYER and I'm form Poland. I'm a young programmer, c++ fan. I use qt framework for my projects and some python. I made a mars rover called alion, which was exhibited on the https://roverchallenge.eu/.</p>
+<p> My nickname is GAMEPLAYER and I'm form Poland. I'm a programmer, c++ fan. I use qt framework for my projects and some python. I made a mars rover called alion, which was exhibited on the https://roverchallenge.eu/.</p>
 
 #
 ### Contact
 <p><img src="https://badges.krynn.dev/discord?id=749918932495761499&padding=8"></p>
-<p><img src="https://badges.krynn.dev/email?address=game.player@o2.pl&padding=8"></p> 
 <a href="http://gpb.alion.hmcloud.pl" target="_blank">My web page</a>
   
 # 
