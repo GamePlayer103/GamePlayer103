@@ -1,4 +1,4 @@
-### Hi. I'm GamePlayer103. Nice to see you on my profile
+### Hi. I'm GamePlayer103. Nice to see you on my profile.
 
 #
 ### About me
