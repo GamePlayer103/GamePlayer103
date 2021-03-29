@@ -2,11 +2,7 @@
 
 #
 ### About me
-<p> My nickname is GAMEPLAYER and I'm form Poland. I'm a programmer, c++ fan. I use qt framework for my projects and some python. I made a mars rover called alion, which was exhibited on the https://roverchallenge.eu/.</p>
-
-# 
-### What I use
-<p><img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/cpp.png" width="60px">  <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/qt.png" width="80px">  <img src="https://raw.githubusercontent.com/GamePlayer103/GamePlayer103/main/python.webp" width="60px"></p>
+<p> I'm GamePlayer103 and I'm from Poland. I mainly use c++ and QT framework for my projects, but i like using other stuffs too.</p>
 
 #
 ### My stats
