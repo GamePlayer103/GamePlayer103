@@ -2,7 +2,7 @@
 
 #
 ### About me
-<p> I'm GamePlayer103 and I'm from Poland. I mainly use c++ and QT framework for my projects, but i like using other stuffs too.</p>
+<p>I am a young programmer from Poland. I've always liked programming. I started learning web development when I was 8 years old. A few years later, I became a student of the Kielce University of Technology for children and I am still so today. Now my favorite tools are C ++ and Qt. One of the challenges I like to face was setting up Codepro and also creating the Alion Rover robot. I have also organized events such as Code Week.</p>
 
 #
 ### My stats
